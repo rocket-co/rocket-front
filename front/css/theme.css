@@ -19097,10 +19097,8 @@ label.btn {
 /* Toggle */
 .dropdown-toggle::after {
   display: inline-block;
-  font-family: "Font Awesome 5 Pro";
   font-size: 80%;
   font-weight: 900;
-  content: "";
   margin-left: .5rem;
 }
 
