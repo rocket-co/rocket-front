@@ -162,7 +162,7 @@ a {
 }
 
 a:hover {
-  color: #0052ea;
+  color: #fd7e14;
   text-decoration: none;
 }
 
@@ -3299,7 +3299,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #0052ea;
+  color: #fd7e14;
   text-decoration: none;
 }
 
@@ -12151,7 +12151,7 @@ button.bg-indigo:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #0052ea !important;
+  color: #fd7e14 !important;
 }
 
 .text-secondary {
@@ -12895,7 +12895,7 @@ h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a,
 
 h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover,
 .h1 > a:hover, .h2 > a:hover, .h3 > a:hover, .h4 > a:hover, .h5 > a:hover, .h6 > a:hover {
-  color: #0052ea;
+  color: #fd7e14;
 }
 
 h1.text-white > a, h2.text-white > a, h3.text-white > a, h4.text-white > a, h5.text-white > a, h6.text-white > a,
@@ -13173,7 +13173,7 @@ button:focus {
 }
 
 .link-muted:hover {
-  border-color: #0052ea;
+  border-color: #fd7e14;
 }
 
 .link-muted__toggle-default {
