@@ -5157,8 +5157,8 @@ input[type="button"].btn-block {
   z-index: 2;
   color: #00417d;
   text-decoration: none;
-  background-color: rgba(222, 68, 55, 0.1);
-  border-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
+  border-color: rgba(61, 87, 155, 0.2);
 }
 
 .page-link:focus {
@@ -13150,7 +13150,7 @@ button:focus {
   height: 1.375rem;
   font-size: 1rem;
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   border-radius: 50%;
   transition: 0.3s;
 }
@@ -17403,7 +17403,7 @@ button:focus {
 /* primary air */
 .btn-soft-primary {
   color: #00417d;
-  background: rgba(222, 68, 55, 0.1);
+  background: rgba(61, 87, 155, 0.2);
   border-color: transparent;
 }
 
@@ -17415,7 +17415,7 @@ button:focus {
 
 .btn-soft-primary[href].disabled, .btn-soft-primary[href]:disabled, .btn-soft-primary[type].disabled, .btn-soft-primary[type]:disabled {
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   box-shadow: none;
 }
 
@@ -17553,7 +17553,7 @@ button:focus {
 /* danger air */
 .btn-soft-danger {
   color: #de4437;
-  background: rgba(222, 68, 55, 0.1);
+  background: rgba(61, 87, 155, 0.2);
   border-color: transparent;
 }
 
@@ -17565,7 +17565,7 @@ button:focus {
 
 .btn-soft-danger[href].disabled, .btn-soft-danger[href]:disabled, .btn-soft-danger[type].disabled, .btn-soft-danger[type]:disabled {
   color: #de4437;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   box-shadow: none;
 }
 
@@ -18781,7 +18781,7 @@ label.btn {
   position: relative;
   top: 1px;
   padding: .25rem .25rem .25rem .75rem;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   border-radius: 6.1875rem;
 }
 
@@ -18835,7 +18835,7 @@ label.btn {
 
 .u-sidebar--account__list-link.active, .u-sidebar--account__list-link:hover {
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
 }
 
 .u-sidebar--account__list-link.active .u-sidebar--account__list-icon, .u-sidebar--account__list-link:hover .u-sidebar--account__list-icon {
@@ -19235,7 +19235,7 @@ label.btn {
 ------------------------------------*/
 .custom-select:focus,
 .form-control:focus {
-  box-shadow: 0 0 10px rgba(222, 68, 55, 0.1);
+  box-shadow: 0 0 10px rgba(61, 87, 155, 0.2);
   border-color: rgba(55, 125, 255, 0.5);
 }
 
@@ -19383,7 +19383,7 @@ label.btn {
 .u-focus-state .custom-select,
 .u-focus-state .input-group,
 .u-focus-state .form-control:first-child:last-child {
-  box-shadow: 0 0 10px rgba(222, 68, 55, 0.1);
+  box-shadow: 0 0 10px rgba(61, 87, 155, 0.2);
 }
 
 .u-focus-state .input-group-text {
@@ -19429,7 +19429,7 @@ label.btn {
 .u-has-error .custom-select,
 .u-has-error .input-group,
 .u-has-error .form-control:first-child:last-child {
-  box-shadow: 0 0 10px rgba(222, 68, 55, 0.1);
+  box-shadow: 0 0 10px rgba(61, 87, 155, 0.2);
 }
 
 .u-has-error .input-group-text {
@@ -19723,7 +19723,7 @@ label.btn {
 .u-go-to-ver-arrow {
   display: inline-block;
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   padding: 2rem 1rem;
   border-radius: 6.1875rem;
 }
@@ -20103,7 +20103,7 @@ label.btn {
 
 .u-media-player__icon--primary {
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
 }
 
 .u-media-player__icon--success {
@@ -21070,7 +21070,7 @@ label.btn {
   line-height: 0;
   display: inline-block;
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   width: 2.5rem;
   height: 2.5rem;
   font-size: 0.875rem;
@@ -21779,7 +21779,7 @@ label.btn {
 }
 
 .gradient-half-primary-v3 {
-  background-image: linear-gradient(0deg, rgba(222, 68, 55, 0.1) 0%, transparent 100%);
+  background-image: linear-gradient(0deg, rgba(61, 87, 155, 0.2) 0%, transparent 100%);
   background-repeat: repeat-x;
 }
 
@@ -22080,7 +22080,7 @@ label.btn {
   Background Soft Colors
 ------------------------------------*/
 .bg-soft-primary {
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
 }
 
 .bg-soft-secondary {
@@ -22100,7 +22100,7 @@ label.btn {
 }
 
 .bg-soft-danger {
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
 }
 
 .bg-soft-light {
@@ -22960,7 +22960,7 @@ label.btn {
   font-size: 1rem;
   color: #00417d;
   text-align: center;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
   border-radius: 0.3125rem;
   margin-right: .75rem;
 }
@@ -23069,7 +23069,7 @@ label.btn {
 
 .u-datepicker .flatpickr-day:focus, .u-datepicker .flatpickr-day:hover {
   color: #00417d;
-  background-color: rgba(222, 68, 55, 0.1);
+  background-color: rgba(61, 87, 155, 0.2);
 }
 
 .u-datepicker .flatpickr-day.inRange {
@@ -23386,7 +23386,7 @@ label.btn {
 }
 
 .u-range-slider-grid .irs-grid-text.current {
-  background: rgba(222, 68, 55, 0.1);
+  background: rgba(61, 87, 155, 0.2);
   color: #00417d;
 }
 
